@@ -20,7 +20,7 @@ A new Flutter project. About blockchain chat channel app
 
 作为聊天应用，运营地区敏感词库必须随时保持更新，链上数据将强制性完善，完善的词库信息由区块链从gist同步,该词库由链上自动修复。
 
-[Sensitive vocabulary](https://github.com/MTMCA/assets/senitive_vocabulary)
+[Sensitive vocabulary](https://github.com/MTMCA/assets/tree/main/senitive_vocabulary)
 
 ## Getting Started
 
